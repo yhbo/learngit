@@ -1,3 +1,4 @@
 Git is version control system.
-Git is free software.
-输入几个中文字试试！
+Gsit is free software.
+入几个中文字试试！
+又加了几个中文看看。
